@@ -32,6 +32,3 @@ The dataset is based on **SuperStore US transactions**, containing fields such a
 - **Power BI**: Interactive dashboards and visualizations
 - **Excel/CSV**: Original raw dataset
 
-
-```bash
-git clone https://github.com/zennnn1203/ETL-.git
